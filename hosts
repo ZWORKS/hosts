@@ -1,11 +1,12 @@
 # zycsnd88888888@163.com
-# Last updated: 2016-12-15
+# Last updated: 2016-12-18
 
 
 
 # Localhost (DO NOT REMOVE)
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
+
 
 # Modified hosts start
 # Armorgames Start
@@ -3360,5 +3361,4 @@
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
 # Yahoo End
-
 # Modified hosts end
