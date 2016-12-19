@@ -280,6 +280,8 @@
 61.91.161.217	clients4.google.com
 61.91.161.217	clients5.google.com
 61.91.161.217	clients6.google.com
+61.91.161.217	classroom.google.com
+61.91.161.217	classroom.google.ca
 61.91.161.217	clouderrorreporting.clients6.google.com
 61.91.161.217	datastore.clients6.google.com
 61.91.161.217	contributor.google.com
@@ -3354,3 +3356,4 @@
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
 # Yahoo End
+# Modified hosts end
