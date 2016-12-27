@@ -1,0 +1,392 @@
+
+<script> var SITE_URL="http://www.aijibao.net/m/";</script>
+<script type="text/javascript" src="http://www.aijibao.net/m/js/jquery.min.js"></script> 
+<script type="text/javascript" src="http://www.aijibao.net/m/js/jquery_dialog.js"></script> 
+<script type="text/javascript" src="http://www.aijibao.net/m/js/common.js?v=21"></script> 
+<script type="text/javascript" src="http://www.aijibao.net/m/js/jquery.json-1.3.js"></script> 
+<script type="text/javascript" src="http://www.aijibao.net/m/js/user.js?v=v1"></script> 	
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script> 
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="renderer" content="webkit"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link charset="utf-8" type="text/css" rel="stylesheet"  href="http://www.aijibao.net/m/css/css/moving-css3.css"/>
+<link charset="utf-8" type="text/css" rel="stylesheet"  href="http://www.aijibao.net/m/css/css/header.css"/>
+<link charset="utf-8" type="text/css" rel="stylesheet"  href="http://www.aijibao.net/m/css/css/regist.css"/>
+<link charset="utf-8" type="text/css" rel="stylesheet"  href="http://www.aijibao.net/m/css/css/footer.css"/>
+<script type="text/javascript" src="http://www.aijibao.net/m/js/js/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="http://www.aijibao.net/m/js/js/regist-jquery.js"></script>
+<script type="text/javascript" src="http://www.aijibao.net/m/js/js/font-jquery.js"></script>
+
+<title>碎屏险</title>
+<meta name="keywords" content=""/>
+
+
+<style>#BAIDU_DSPUI_FLOWBAR,.adsbygoogle,.ad,div[class^="ad-widsget"],div[id^="div-gpt-ad-"],a[href*="@"][href*=".exe"],a[href*="/?/"][href*=".exe"],.adpushwin{display:none !important;}</style></head>
+<style>
+.piaochecked {
+width: 15px;
+height: 15px;
+float: left;
+cursor: pointer;
+margin: 0px 7px; 0px 7px;
+text-align: center;
+background-image: url(http://www.aijibao.net/m/images/checkbox_01.png);
+background-repeat: no-repeat;
+background-position: 0 0;
+}
+
+.on_check {
+background-position: 0 -19px;
+}
+.radioclass {
+opacity: 0;
+cursor: pointer;
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+filter: alpha(opacity=0);
+}
+</style>
+<body>
+	<div id="layout" class="fontsize-16">
+		<header>
+		
+		</header>
+		
+		<section class="section1">
+			<div class="section-title">
+				<div class="section-titleword fontsize-38">
+
+				碎屏特惠保				</div>
+				<div class="greenline">
+				</div>
+			</div>
+			<div class="biaodandiv fontsize-22">
+				<form class="form-infor" action="http://www.aijibao.net/m/sui.php?type=pay_buy" method="post">
+				<input type="text" name="act" hidden=""  value="one">
+				<input type="text" name="hid" hidden="" value="5">
+				<li>
+					<div class="biaodan-name">
+					姓名 / NAME
+					</div>
+					<div class="input-div">
+					<input class="myinput ipt1 fontsize-22" type="text" name="name" placeholder="请输入您的真实姓名"/>
+					</div>
+				</li>
+				<li>
+					<div class="biaodan-name">
+					手机号 / TEL
+					</div>
+					<div class="input-div">
+					<input class="myinput ipt2 fontsize-22" type="text" name="phone" placeholder="请输入您的手机号码"/>
+					</div>
+				</li>
+				<li>
+					<div class="biaodan-name">
+					身份证 / ID
+					</div>
+					<div class="input-div">
+					<input hidden="hidden" id='sfid' value="1">
+					<input class="myinput ipt3 fontsize-22" type="text"  name="snum" placeholder="请输入您本人的身份证号码"/>
+					</div>
+				</li>
+				<!--<li>
+					<div class="biaodan-name">
+					手机品牌 / BRAND 
+					</div>
+					<div class="input-div">
+					<input class="myinput ipt4 fontsize-22" type="text" placeholder="请输入您手机的品牌"/>
+					</div>
+				</li>
+				<li>
+					<div class="biaodan-name">
+					手机型号 / MODEL
+					</div>
+					<div class="input-div">
+					<input class="myinput ipt5  fontsize-22" type="text" placeholder="请输入您手机的型号"/>
+					</div>
+				</li> -->
+				
+								<li>
+					<div class="biaodan-name">
+					手机品牌 / BRAND 
+					</div>
+					<div class="input-div">
+						<select name="bigname" id="bigname"  class="myinput ipt4  fontsize-22" style="background-color:#fff;">
+														<option value="1">李文华</option>
+														<option value="2">李文华</option>
+														<option value="3">李文华</option>
+														<option value="4">李文华</option>
+														<option value="5">李文华</option>
+														<option value="6">李文华</option>
+														<option value="7">李文华</option>
+														<option value="8">李文华</option>
+														<option value="9">李文华</option>
+														<option value="10">李文华</option>
+														<option value="11">李文华</option>
+														<option value="12">努比亚</option>
+														<option value="24">朵唯</option>
+														<option value="16">中兴</option>
+														<option value="17">酷派</option>
+														<option value="18">联想</option>
+														<option value="19">锤子</option>
+														<option value="20">TCL</option>
+														<option value="21">飞利浦</option>
+														<option value="22">LG</option>
+														<option value="23">华硕</option>
+														<option value="25">1500以内机型专享（请在下面空格填写品牌与型号）</option>
+													</select> 
+					</div>
+				</li>
+				<li>
+					<div class="biaodan-name">
+					手机型号 / MODEL
+					</div>
+					<div class="input-div">
+						<select name="smallname" id="smallname"  class="myinput ipt5  fontsize-22 cattwo" style="background-color:#fff;">
+																																																																																																																																															<option value="on5全系">on5全系</option>
+																															<option value="S5 全系">S5 全系</option>
+																															<option value="S4 全系">S4 全系</option>
+																																														<option value="A37全网">A37全网</option>
+																															<option value="A9 全系">A9 全系</option>
+																															<option value="C7 全系">C7 全系</option>
+																															<option value="C5 全系">C5 全系</option>
+																																														<option value="On7 全系">On7 全系</option>
+																															<option value="Folder 全系">Folder 全系</option>
+																															<option value="A8 全系">A8 全系</option>
+																															<option value="A5 全系">A5 全系</option>
+																															<option value="A7 全系">A7 全系</option>
+																																														<option value="J7全系">J7全系</option>
+																																														<option value="G7200">G7200</option>
+																															<option value="J5全系">J5全系</option>
+																															<option value="J3全系">J3全系</option>
+																																																																																																																																																																																										</select>
+						<div class="myinput  fontsize-22 catone" style="background-color:#fff;display:none;padding-left: 0;">
+						</div>
+					</div>
+				</li>
+								
+				<li>
+					<div class="biaodan-name" style="width:98%;">
+					手机IMEI码 / IMEI <font color="red">(注:在拨号界面输入*#06#后就可看到IMEI码)</font>
+					</div>
+					<div class="input-div">
+					<input class="myinput ipt6 fontsize-22" type="text" name="imei" placeholder="请输入您手机的IMEI码"/>
+					</div>
+				</li>
+				<li style="margin-bottom:0px;">
+					<div class="biaodan-name" style="width:80%;">
+					手机照+身份证或密保卡合照 / PHOTOS
+					</div>
+					<div style="width:98%;margin:0 auto;overflow:hidden;">
+						<div style="width:46%;border:1px solid #aaa;float:left;" onClick="showup('images/shili_1.jpg');" ><img src="images/shili_1.jpg" width="100%" ></div>
+						<div style="width:46%;border:1px solid #aaa;float:right;margin-right:2%;" onClick="showup('images/shili_2.jpg');" ><img src="images/shili_2.jpg" width="100%" ></div>
+					</div>
+					<div class="uploaddiv" style="position: relative;">
+						<div style="width:55%;position: absolute;left:43%;top:4%;color: #999;">
+							<div style="overflow:hidden;">上传前请阅读:<a href="http://mp.weixin.qq.com/s?__biz=MzIxNTQ5OTg4MA==&mid=2247483700&idx=2&sn=ac9fc3597ee06077e26a146348b06e99#rd" style="color:red;">《购买指南 》</a></div>
+							<div style="overflow:hidden; margin-top:3px;">请在拨号界面输入<span class="greencolor">*#06#</span>上传带有IMEI码手机正面照(左)+密保卡卡密面(右)</div>
+						</div>
+						<input name="shoujiimg" class="ipt10" id="goods" type="hidden" value=""/>
+						<iframe id="iframe_t" name="iframe_t" border="0" src="upload.php?action=&ty=goods&files=" scrolling="no" frameborder="0" style="width:98%;background-color:#f3f4f8;"></iframe>
+						<div class="clear">
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="biaodan-name" style="width:80%;">
+					推荐人 / REFERRALS &nbsp;&nbsp;( 选填 )
+					</div>
+					<div class="xuankuang-div">
+						<div class="xuankuang-btn">
+							<div class="btn-change btnc-1">
+								<div class="picchange1">
+								<img src="images/img/regist/xuankuang.jpg"/>
+								</div>
+								<div class="picchange2 xuanzhongpic">
+								<img src="images/img/regist/gouxuan.jpg"/>
+								</div>
+							</div>
+							<div class="xuankuang-word">
+							商户
+							</div>
+						</div>
+						<div class="xuankuang-btn" style="margin-left: 12%;position:relative;">
+							<div class="btn-change btnc-2">
+								<div class="picchange1">
+								<img src="images/img/regist/xuankuang.jpg"/>
+								</div>
+								<div class="picchange2">
+								<img src="images/img/regist/gouxuan.jpg"/>
+								</div>
+							</div>
+							<div class="xuankuang-word">
+							推荐人
+							</div>
+						</div>
+						<div class="xuankuang-btn" style="width: 16%;margin-left: 13%;">
+							<div class="btn-change btnc-3" style="width: 28%;">
+								<div class="picchange1">
+								<img src="images/img/regist/xuankuang.jpg"/>
+								</div>
+								<div class="picchange2">
+								<img src="images/img/regist/gouxuan.jpg"/>
+								</div>
+							</div>
+							<div class="xuankuang-word" style="width: 13%; position: absolute;right: -1.5%;top: 1%;">
+							密保卡
+							</div>     
+						</div>
+						<div class="clear">
+						</div>
+					</div>
+					<div class="choosediv">
+						<div class="choose choose1">
+							<div class="topdiv">
+								<div class="smallinput">
+									<div class="input-div">
+									<input type="text" name="shang_id" hidden=""  value="">
+									<input type="text" name="shang_phone" hidden=""  value="">
+									<input type="text" name="shang_name" hidden=""  value="">
+									<input class="myinput my2 fontsize-22" name="shang_names" type="text" style="width:101.5%;color: #5dca88;background-color:#fff;" value=""disabled="true"/>
+									</div>
+								</div>
+								
+								<div class="clear">
+								</div>
+							</div>
+							<div style="padding-left:2%;">
+								*商户没有可不填
+							</div>
+							<div style="margin:15px 0px;color:red;">
+								<div class="piaochecked on_check">
+									<input name="" type="checkbox" class="radioclass input" value="1">
+								</div>
+								同意此协议:<a href="http://www.aijibao.net/m/sui.php?type=xieyi"><font color="red">《碎屏险协议》</font></a>
+							</div>
+							<div class="zhifu-btn">
+								<input class="mybtn fontsize-22 tijiao1"   type="submit" value="支付订单"/>
+							</div>
+						</div>
+						<div class="choose choose2">
+							<div class="topdiv">
+																<div class="smallinput">
+									<div class="input-div">
+									<input name="tui_name" class="myinput my2 fontsize-22" type="text"  style="width:101.5%;background-color:#fff;" placeholder="姓名" value=""/>
+									</div>
+								</div>
+								<div class="smallinput">
+									<div class="input-div"> 
+									<input name="tui_phone" class="myinput my2 fontsize-22" type="text"  style="width:101.5%;background-color:#fff;" placeholder="电话" value=""/>
+									</div>
+								</div>
+																<div class="clear">
+								</div>
+							</div>
+							<div style="padding-left:2%;">
+								*推荐人没有可不填
+							</div>
+							<div style="margin:15px 0px;color:red;">
+								<div class="piaochecked on_check">
+									<input name="" type="checkbox" class="radioclass input" value="1">
+								</div>
+								同意此协议:<a href="http://www.aijibao.net/m/sui.php?type=xieyi"><font color="red">《碎屏险协议》</font></a>
+							</div>
+							<div class="zhifu-btn">
+								<input class="mybtn fontsize-22 tijiao2"  type="submit" value="支付订单"/>
+							</div>
+						</div>
+						<div class="choose choose3">
+							<div class="topdiv">
+								
+								<div class="smallinput">
+									<div class="input-div">
+									<!--input class="myinput my2 fontsize-22" type="text"  style="width:101.5%;" placeholder="运营商"/-->
+									<select name="yunying" class="myinput my2 fontsize-22" style="width:101.5%;background-color:#fff;">
+																				<option value="5">密保卡用户</option>
+																			</select>
+									</div>
+								</div>
+								<div class="smallinput">
+									<div class="input-div">
+									<input name="kami" class="myinput my2 fontsize-22" type="text"  style="width:101.5%;" placeholder="卡密"/>
+									</div>
+								</div>
+								<div class="smallinput">
+									<div class="input-div">
+									<input name="pay_shang" class="myinput my2 fontsize-22" type="text"  style="width:101.5%;" placeholder="您购买卡密的商家名称(可填简称)"/>
+									</div>
+								</div>
+								<div class="clear">
+								</div>
+							</div>
+							<div style="margin:15px 0px;color:red;">
+								<div class="piaochecked on_check">
+									<input name="" type="checkbox" class="radioclass input" value="1">
+								</div>
+								同意此协议:<a href="http://www.aijibao.net/m/sui.php?type=xieyi"><font color="red">《碎屏险协议》</font></a>
+							</div>
+							<div class="zhifu-btn">
+								<input class="mybtn fontsize-22 tijiao3"   type="submit" value="确认提交"/>
+							</div>
+						</div>
+					</div>
+				</li>
+				</form>
+			</div>
+		</section>
+	</div>
+	<div id="sximg" style="width:100%;height:100%;z-index:9999;position:fixed;top:0;left:0;display:none;background-color: #f1f1f1; background-color:rgba(0,0,0,0.5);" class="guanbi">
+		<div style="width:93%;margin:30% 3% 0;border:1px solid #e1e1e1;"><img id="imgurl" src="" width="100%" ></div>
+	</div>
+</body>
+<script type="text/javascript">
+	$(function(){
+		$('#bigname').change(function(e){
+ 			var bigid = $('#bigname option:selected') .val();//选中的值			
+			$.ajax({
+			  type: "GET",
+			  url: "http://www.aijibao.net/m/sui.php?type=liancha",
+			   data:{id:bigid},
+				success: function(msg){
+					if(bigid == 1 || bigid == 4){
+						$(".catone").hide();
+						$(".cattwo").show();
+						$('#smallname').html(msg);
+					}else{
+						$(".cattwo").hide();
+						$(".catone").show();
+						$('.catone').html(msg);
+						
+					}
+				}
+			});
+			
+
+		})
+	});
+	$(".piaochecked").on("click",function(){
+		$(this).hasClass("on_check")? $(this).removeClass("on_check"):$(this).addClass("on_check");
+	   //或者这么写
+	  // $(this).toggleClass( "on_check" );
+	})
+</script> 
+<script type="text/javascript">
+function showup(imgurl){
+	//alert(imgurl);
+	var urlimg = imgurl;
+	document.getElementById('imgurl').src=urlimg;
+	document.getElementById("sximg").style.display="";
+	//alert(document.getElementById("div").style.display)
+}
+$(document).ready(function(){
+  $(".guanbi").click(function(){
+	$("#sximg").hide();
+  });
+});
+</script>
+</html>
+

@@ -1,5 +1,5 @@
 # zycsnd88888888@163.com
-# Last updated: 2016-12-19
+# Last updated: 2016-12-25
 
 
 
@@ -8,6 +8,7 @@
 ::1	localhost ip6-localhost ip6-loopback
 
 # Modified hosts start
+
 # Armorgames Start
 93.184.220.39	cache.armorgames.com
 93.184.220.39	gamemedia.armorgames.com
@@ -15,6 +16,7 @@
 93.184.220.39	armatars.armorgames.com
 93.184.220.39	agi.armorgames.com
 # Armorgames End
+
 # Amazon AWS Start
 54.239.31.69	aws.amazon.com
 54.239.30.25	console.aws.amazon.com
@@ -39,6 +41,7 @@
 52.216.80.48	github-cloud.s3.amazonaws.com
 54.231.48.40	github-com.s3.amazonaws.com
 # Amazon AWS End
+
 # Apkpure Start
 104.20.82.194	apkpure.com
 104.20.82.194	a.apkpure.com
@@ -47,6 +50,7 @@
 104.20.82.194	static.apkpure.com
 104.20.82.194	translate.apkpure.com
 # Apkpure End
+
 # Archive Start
 207.241.224.22	archive.org
 207.241.224.22	www.archive.org
@@ -54,18 +58,22 @@
 207.241.224.22	analytics.archive.org
 207.241.226.190	web.archive.org
 # Archive End
+
 # Box.com Start
 74.112.184.70	app.box.com
 74.112.184.85	m.box.com
 # Box.com End
+
 # BundleStars Start
 23.253.146.21	bundlestars.com
 54.192.232.60	cdn-images.bundlestars.com
 185.12.83.2	support.bundlestars.com
 # BundleStars End
+
 # bandwagonhost.com Start
 104.20.6.63	bandwagonhost.com
 # bandwagonhost.com End
+
 # Disqus Start
 151.101.100.134	disqus.com
 151.101.100.134	www.disqus.com
@@ -82,6 +90,7 @@
 23.65.183.218	blog.disqus.com
 23.65.183.218	publishers.disqus.com
 # Disqus End
+
 # Dropbox Start
 #######
 # Warning: SNIProxy being used.
@@ -135,6 +144,7 @@
 108.160.172.236	client.v.dropbox.com
 108.160.172.227	log.getdropbox.com
 # Dropbox End
+
 # DuckDuckGo Start
 46.51.216.186	duckduckgo.com
 46.51.216.186	www.duckduckgo.com
@@ -143,12 +153,15 @@
 54.251.178.52	images.duckduckgo.com
 96.45.83.209	help.duckduckgo.com
 # DuckDuckGo End
+
 # Facebook start
 157.240.0.17	fb.me
 157.240.0.17	facebook.com
 157.240.0.17	www.facebook.com
 157.240.0.17	m.facebook.com
 157.240.0.17	mqtt.facebook.com
+157.240.0.17	mqtt-mini.facebook.com
+157.240.0.17	business.facebook.com
 157.240.0.17	s-static.ak.facebook.com
 23.76.153.42	static.ak.facebook.com
 23.76.153.42	b.static.ak.facebook.com
@@ -241,13 +254,16 @@
 184.28.188.10	static.ak.fbcdn.net
 184.28.188.10	profile.ak.fbcdn.net
 # Facebook end
+
 # FlipBoard start
 54.225.64.251	beacon.flipboard.com
 54.225.64.251	fbprod.flipboard.com
 # FlipBoard End
+
 # Github start
-192.30.253.113	gist.github.com
+192.30.253.118	gist.github.com
 # Github end
+
 # Gmail web Start
 61.91.161.217	chatenabled.mail.google.com
 61.91.161.217	filetransferenabled.mail.google.com
@@ -263,6 +279,7 @@
 61.91.161.217	mail-settings.google.com
 64.233.188.121	m.android.com
 # Gmail web End
+
 # Google Start
 61.91.161.217	www.google.com
 61.91.161.217	google.com
@@ -525,6 +542,7 @@
 61.91.161.217	jmoore-dot-android-experiments.appspot.com
 61.91.161.217	lfe-alpo-gm.appspot.com
 61.91.161.217	m-dot-betaspike.appspot.com
+61.91.161.217	joinjoaomgcd.appspot.com
 61.91.161.217	accounts.google.com.gi
 61.91.161.217	accounts.google.co.nz
 61.91.161.217	id.google.co.nz
@@ -691,6 +709,7 @@
 61.91.161.217	mobilemaps.clients.google.com
 61.91.161.217	music.google.com
 61.91.161.217	music.googleusercontent.com
+61.91.161.217	music-pa.clients6.google.com
 61.91.161.217	scholar.googleusercontent.com
 61.91.161.217	uploadsj.clients.google.com
 61.91.161.217	news.google.com
@@ -790,6 +809,7 @@
 61.91.161.217	business.google.com
 61.91.161.217	google-analytics.com
 61.91.161.217	artsandculture.google.com
+
 # gstatic Start
 61.91.161.217	geo0.ggpht.com
 61.91.161.217	geo1.ggpht.com
@@ -834,6 +854,7 @@
 61.91.161.217	t2.gstatic.com
 61.91.161.217	t3.gstatic.com
 # gstatic End
+
 # Googleapis Start
 61.91.161.217	chart.apis.google.com
 61.91.161.217	googleapis.com
@@ -869,6 +890,7 @@
 64.233.188.121	code.getmdl.io
 64.233.189.128	storage.googleapis.com
 # Googleapis End
+
 61.91.161.217	www.googlehosted.com
 61.91.161.217	base.googlehosted.com
 61.91.161.217	base0.googlehosted.com
@@ -1018,6 +1040,7 @@
 61.91.161.217	beyondthemap.withgoogle.com
 61.91.161.217	analyticsacademy.withgoogle.com
 61.91.161.217	spellup.withgoogle.com
+
 # Googleusercontent Start
 61.91.161.217	www.googleusercontent.com
 61.91.161.217	apidata.googleusercontent.com
@@ -2260,6 +2283,7 @@
 61.91.161.217	39-wave-opensocial.googleusercontent.com
 61.91.161.217	40-wave-opensocial.googleusercontent.com
 # Googleusercontent End
+
 61.91.161.217	toolbox.googleapps.com
 61.91.161.217	m.google.com
 61.91.161.217	m.google.com.hk
@@ -2280,6 +2304,7 @@
 61.91.161.217	chromoting-host.talkgadget.google.com
 61.91.161.217	chromoting-client.talkgadget.google.com
 61.91.161.217	remoting-pa.googleapis.com
+61.91.161.217	personalsafety-pa.googleapis.com
 61.91.161.217	clientmetrics-pa.googleapis.com
 61.91.161.217	contacts.google.com
 61.91.161.217	youtube.com
@@ -2314,6 +2339,7 @@
 61.91.161.217	manifest.googlevideo.com
 64.233.162.83	onetoday.google.com
 64.233.162.83	notifications.google.com
+
 # Google:others Start
 61.91.161.217	google.ad
 61.91.161.217	google.ae
@@ -2713,6 +2739,7 @@
 64.233.191.121	androidexperiments.com
 64.233.188.121	www.tensorflow.org
 # Google:others End
+
 # Gmail SMTP/POP/IMAP Start
 64.233.188.14	gmr-smtp-in.l.google.com
 64.233.188.16	googlemail-imap.l.google.com
@@ -2730,6 +2757,7 @@
 64.233.188.109	pop.gmail.com
 64.233.188.109	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
+
 # Google:stun Server Start
 64.233.177.127	stun.l.google.com
 64.233.177.127	alt1.stun.l.google.com
@@ -2738,12 +2766,14 @@
 64.233.177.127	alt4.stun.l.google.com
 64.233.177.127	alt5.stun.l.google.com
 # Google:stun Server End
+
 # Google:Gtalk	Start
 64.233.188.125	talk.google.com
 64.233.188.125	talk.l.google.com
 64.233.188.125	talkx.l.google.com
 64.233.188.125	alt1.talk.l.google.com
 # Google:Gtalk	End
+
 # Google:ghs Start
 64.233.188.121	ghs.google.com
 64.233.188.121	ghs46.google.com
@@ -2778,26 +2808,32 @@
 64.233.188.121	news.dartlang.org
 64.233.188.121	dartpad.dartlang.org
 # Google:ghs End
+
 # Google:gcm Start
 64.233.188.188	mobile-gtalk.l.google.com
 64.233.188.188	mtalk.google.com
 64.233.188.188	gcm.googleapis.com
 64.233.188.188	gcm.l.google.com
 64.233.188.188	gcm-xmpp.googleapis.com
+64.233.188.188	gcm-http.googleapis.com
 64.233.188.188	gcm-preprod.l.google.com
 64.233.188.188	gcm-preprod.googleapis.com
 # Google:gcm End
+
 # Goole:duo Start
 61.91.161.217	instantmessaging-pa.googleapis.com
 # Goole:duo End
+
 # Google:A-GPS Start
 64.233.171.192	supl.google.com
 # Google:A-GPS End
+
 # Google:Made the code for girls Start
 216.239.38.21	madewithcode.com
 216.239.38.21	www.madewithcode.com
 # Google:Made the code for girls End
 # Google End
+
 # HumbleBundle Start
 5.153.35.171	humble.pubnub.com
 198.41.186.33	humblebundle.com
@@ -2805,12 +2841,14 @@
 52.36.140.12	pubnub.com
 74.125.34.32	www.humblebundle.com
 # HumbleBundle End
+
 # imgur Start
 103.245.224.193	imgur.com
 103.245.224.193	www.imgur.com
 103.245.224.193	i.imgur.com
 103.245.224.193	s.imgur.com
 # imgur End
+
 # Instagram Start
 31.13.70.52	instagram.com
 31.13.70.52	www.instagram.com
@@ -2999,6 +3037,7 @@
 184.51.15.142	images.ak.instagram.com
 184.51.15.142	static.ak.instagram.com
 # Instagram End
+
 # issuu Start
 52.72.26.162	issuu.com
 52.72.26.162	www.issuu.com
@@ -3014,15 +3053,18 @@
 52.72.26.162	skin.issuu.com
 52.72.26.162	help.issuu.com
 # issuu End
+
 # Logmein Start
 74.201.74.193	secure.logmein.com
 # Logmein End
+
 # Medium start
 104.16.120.127	medium.com
 104.16.120.145	cdn-static-1.medium.com
 104.16.120.145	cdn-images-1.medium.com
 103.245.222.101	cdn-images-2.medium.com
 # Medium end
+
 # MEGA Start
 31.216.147.135	eu.api.mega.co.nz
 154.53.224.130	eu.static.mega.co.nz
@@ -3031,6 +3073,7 @@
 154.53.224.166	mega.nz
 31.216.147.130	w.api.mega.co.nz
 # MEGA End
+
 # nytimes for mobile Start
 170.149.159.135	nytimes.com
 52.84.219.212	cn.nytimes.com
@@ -3056,67 +3099,17 @@
 184.84.127.110	css.nyt.com
 184.84.127.110	int.nyt.com
 # nytimes for mobile End
+
 # OneDrive Start
 204.79.197.217	onedrive.live.com
-204.79.197.217	skyweb.skyprod.akadns.net
-204.79.197.217	webedgegeo.skyprod.akadns.net
-204.79.197.217	account.live.com
-131.253.61.98	login.live.com
-131.253.61.97	api.login.live.com
-207.46.101.29	ssw.live.com
-207.46.101.29	ssw-df.live.com
-#204.79.197.213	docs.live.net
-204.79.197.217	mail.live.com
-204.79.197.217	people.live.com
-204.79.197.217	profile.live.com
-204.79.197.213	api.onedrive.com
-204.79.197.213	storage.live.com
-134.170.108.24	skyapi.onedrive.live.com
-134.170.105.24	skyapi.live.net
-204.79.197.217	skyapi.policies.live.net
-134.170.108.24	apis.live.net
-134.170.108.24	l.live.net
-#134.170.108.24	d.docs.live.net
-23.44.152.70	auth.gfx.ms
-#23.212.129.202	p.sfx.ms
-65.55.52.23	directory.services.live.com
-204.79.197.213	bn1306.storage.skyprod.akadns.net
-204.79.197.213	asdzyw-bn1306.files.1drv.com
-204.79.197.213	fqxapq-bn1306.files.1drv.com
-204.79.197.213	hvukpa-bn1306.files.1drv.com
-204.79.197.213	ivvbsg-bn1306.files.1drv.com
-204.79.197.213	public-bn1306.files.1drv.com
-204.79.197.213	svdteg-bn1306.files.1drv.com
-204.79.197.213	public-dm2306.files.1drv.com
-204.79.197.213	nprmzg-bn1306.files.1drv.com
-204.79.197.213	slavvw-bn1306.files.1drv.com
-204.79.197.213	smnyag-bn1306.files.1drv.com
-204.79.197.213	svdteg-bn1306.files.1drv.com
-204.79.197.213	rdtikq-bn1306.files.1drv.com
-204.79.197.213	oqnmtq-bn1306.files.1drv.com
-204.79.197.213	ifvbsg-bn1306.files.1drv.com
-204.79.197.213	rtuqta-bn1306.files.1drv.com
-204.79.197.213	48srbg-bn1306.files.1drv.com
-204.79.197.213	ppssca-bn1306.files.1drv.com
-204.79.197.213	qii5sg-bn1306.files.1drv.com
-204.79.197.213	r1abtq-bn1306.files.1drv.com
-204.79.197.213	dm2303files.storage.live.com
-204.79.197.213	bn1306files.storage.live.com
-204.79.197.213	nhuhga.dm2301.livefilestore.com
-204.79.197.213	public.dm2301.livefilestore.com
-204.79.197.213	public.dm2302.livefilestore.com
-204.79.197.213	public.dm2303.livefilestore.com
-204.79.197.213	public.dm2304.livefilestore.com
-204.79.197.213	bn1306files.storage.live.com
-#204.79.197.211	cid-5b244b56e6779f21.users.storage.live.com
-111.221.29.254	vortex.data.microsoft.com
-134.170.108.26	onedrive.live.com
-134.170.108.152	skyapi.onedrive.live.com
+134.170.107.72	skyapi.onedrive.live.com
 # OneDrive End
+
 # Smartdnsproxy start
 103.28.248.96	www.smartdnsproxy.com
 184.72.50.35	support.smartdnsproxy.com
 # Smartdnsproxy end
+
 # SoundCloud Start
 72.21.91.127	soundcloud.com
 72.21.91.127	www.soundcloud.com
@@ -3138,6 +3131,7 @@
 72.21.91.96	style.sndcdn.com
 72.21.91.96	va.sndcdn.com
 # SoundCloud End
+
 # Startpage & Ixquick Start
 43.249.39.38	startpage.com
 43.249.39.38	www.startpage.com
@@ -3146,6 +3140,7 @@
 37.0.89.56	support.startpage.com
 37.0.89.57	support.ixquick.com
 # Startpage & Ixquick End
+
 # telegram start
 # As an alternative, you can use:
 # https://telegram.ustclug.org
@@ -3156,9 +3151,11 @@
 149.154.167.99	macos.telegram.org
 149.154.167.120	web.telegram.org
 # telegram end
+
 # Travis CI Start
 151.101.76.249	travis-ci-org.global.ssl.fastly.net
 # Travis CI End
+
 # Tumblr Start
 66.6.33.193	tumblr.com
 66.6.32.4	tumblr.co
@@ -3206,6 +3203,7 @@
 151.101.76.249	98.media.tumblr.com
 209.197.3.20	99.media.tumblr.com
 # Tumblr End
+
 # Twitter Start
 110.4.24.178	twitter.com
 110.4.24.178	www.twitter.com
@@ -3279,6 +3277,7 @@
 110.4.24.178	apps.twitter.com
 110.4.24.178	debates.twitter.com
 # Twitter End
+
 # Vimeo Start
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
@@ -3288,16 +3287,19 @@
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
 # Vimeo End
+
 # W3schools Start
 66.29.212.110	w3schools.com
 68.232.44.251	www.w3schools.com
 # W3schools End
+
 # Wikipedia Start
 198.35.26.96	wuu.wikipedia.org
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
 # Wikipedia End
+
 # Yahoo Start
 192.0.79.32	code.flickr.com
 121.101.144.112	api.flickr.com
@@ -3362,4 +3364,5 @@
 50.18.192.250	duckduckgo-owned-server.yahoo.net
 116.214.11.98	tw.mobi.yahoo.com
 # Yahoo End
+
 # Modified hosts end
