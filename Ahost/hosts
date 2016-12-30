@@ -3,6 +3,8 @@
 ::1	localhost ip6-localhost ip6-loopback
 # Modified hosts start
 
+# Modified hosts start
+
 # Armorgames Start
 93.184.220.39	cache.armorgames.com
 93.184.220.39	gamemedia.armorgames.com
@@ -544,6 +546,7 @@
 61.91.161.217	www.googlecode.com
 61.91.161.217	fuchsia.googlesource.com
 61.91.161.217	googlesource.com
+61.91.161.217	boringssl.googlesource.com
 61.91.161.217	gerrit.googlesource.com
 61.91.161.217	chromium.googlesource.com
 61.91.161.217	kernel.googlesource.com
