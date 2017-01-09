@@ -1,16 +1,14 @@
-# Localhost
+# Localhost (DO NOT REMOVE)
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
 
+
 # Modified hosts start
 
-# Armorgames Start
-93.184.220.39	cache.armorgames.com
-93.184.220.39	gamemedia.armorgames.com
-93.184.220.39	quests.armorgames.com
-93.184.220.39	armatars.armorgames.com
-93.184.220.39	agi.armorgames.com
-# Armorgames End
+# bannedbook.org Start
+104.27.196.90 cn.bannedbook.org
+104.28.24.67 usadns.info
+# bannedbook.org End
 
 # Amazon AWS Start
 54.239.31.69	aws.amazon.com
